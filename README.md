@@ -1,16 +1,24 @@
-## Hi there 👋
+## hello 
+NOME: Igor Taragonet Ribeiro   
+turma: MANUFATURA DIGITAL 2    
+franquia de jogos favorita:   
+mortal kombat   
+doom   
+until dawn   
+tekken    
+street fighter   
+franquia de filmes favorito:   
+sexta feira 13   
 
-<!--
-**havikmavado/havikmavado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+banda favorita:   
+<img width="1200" height="501" alt="image" src="https://github.com/user-attachments/assets/cdcb8d05-0067-41b3-80c6-6990a1c9896a" />   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+personagem favorito:   
+<img width="392" height="782" alt="image" src="https://github.com/user-attachments/assets/6c0ac8b0-0640-4989-9543-1fe77bd95334" />   
+
+
+musica favorita atualmente:
+ENTER SANDMAN - METALLICA
+
