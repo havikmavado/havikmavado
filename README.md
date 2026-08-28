@@ -4,7 +4,7 @@
 NOME: Igor Taragonet Ribeiro   
 turma: MANUFATURA DIGITAL 2    
 
-<img width="220" height="183" alt="image" src="https://github.com/user-attachments/assets/9dba202d-a7c6-4bc3-9604-8aab6a5dd918" />
+<img width="220" height="183" alt="pong-video-game" src="https://github.com/user-attachments/assets/6dc6df7f-cd46-4a48-8b2a-862451f31f12" />
 
 
 bandas favoritas:   
