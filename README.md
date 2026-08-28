@@ -4,12 +4,10 @@
 NOME: Igor Taragonet Ribeiro   
 turma: MANUFATURA DIGITAL 2    
 
-## 🎮 Play My Pong Game!
-
-Click the badge below to open a full, interactive version of the game in your browser:
-
-[![Play Pong](https://shields.io)](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME)
-
+<div align="center">
+  <img src="https://artstation.com" alt="Pong Loop" width="480" />
+  <p>🕹️ <i>Pong clássico rodando em loop infinito!</i></p>
+</div>
 
 
 bandas favoritas:   
