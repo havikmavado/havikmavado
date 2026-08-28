@@ -15,8 +15,6 @@ banda favorita:
 
 
 
-personagem favorito:   
-<img width="392" height="782" alt="image" src="https://github.com/user-attachments/assets/6c0ac8b0-0640-4989-9543-1fe77bd95334" />   
 
 
 musica favorita atualmente:
