@@ -19,6 +19,5 @@ bandas favoritas:
 
 
 
-musica favorita atualmente:
-ENTER SANDMAN - METALLICA
+
 
