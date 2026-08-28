@@ -3,14 +3,7 @@
 
 NOME: Igor Taragonet Ribeiro   
 turma: MANUFATURA DIGITAL 2    
-franquia de jogos favorita:   
-mortal kombat   
-doom   
-until dawn   
-tekken    
-street fighter   
-franquia de filmes favorito:   
-sexta feira 13   
+
 
 bandas favoritas:   
 <img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/84d1d1eb-5a5b-4988-88da-a5c06f79d696" />
