@@ -4,6 +4,12 @@
 NOME: Igor Taragonet Ribeiro   
 turma: MANUFATURA DIGITAL 2    
 
+<div align="center">
+  <img src="https://artstation.com" alt="Retro Pong Gameplay" width="450" />
+  <p>🕹️ <i>Playing a game of retro Pong directly in my profile!</i></p>
+</div>
+
+
 
 bandas favoritas:   
 <img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/84d1d1eb-5a5b-4988-88da-a5c06f79d696" />
