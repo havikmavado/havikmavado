@@ -13,7 +13,8 @@ franquia de filmes favorito:
 sexta feira 13   
 
 bandas favoritas:   
-<img width="1200" height="501" alt="image" src="https://github.com/user-attachments/assets/cdcb8d05-0067-41b3-80c6-6990a1c9896a" />   
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/84d1d1eb-5a5b-4988-88da-a5c06f79d696" />
+
 
 https://youtu.be/9HZ_tx8aWuA?si=Infl1WRfim0rUEte
 
@@ -21,7 +22,8 @@ https://youtu.be/9HZ_tx8aWuA?si=Infl1WRfim0rUEte
 
 https://youtu.be/1xD2ItImFEU?si=fFA-wW2VptPI-CBA
 
-<img width="499" height="268" alt="image" src="https://github.com/user-attachments/assets/228ae9b9-75ca-4162-9dfe-ec5671c56e88" />
+<img width="738" height="414" alt="image" src="https://github.com/user-attachments/assets/98bb5d2e-469e-4a83-b0aa-6428496aee60" />
+
 
 https://youtu.be/zOC_7jVvBT8?si=UDaGK1EgU83qXcrV
 
