@@ -4,10 +4,7 @@
 NOME: Igor Taragonet Ribeiro   
 turma: MANUFATURA DIGITAL 2    
 
-<div align="center">
-  <img src="https://artstation.com" alt="Pong Loop" width="480" />
-  <p>🕹️ <i>Pong clássico rodando em loop infinito!</i></p>
-</div>
+<img width="220" height="183" alt="image" src="https://github.com/user-attachments/assets/9dba202d-a7c6-4bc3-9604-8aab6a5dd918" />
 
 
 bandas favoritas:   
