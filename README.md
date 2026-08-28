@@ -4,10 +4,11 @@
 NOME: Igor Taragonet Ribeiro   
 turma: MANUFATURA DIGITAL 2    
 
-<div align="center">
-  <img src="https://artstation.com" alt="Retro Pong Gameplay" width="450" />
-  <p>🕹️ <i>Playing a game of retro Pong directly in my profile!</i></p>
-</div>
+## 🎮 Play My Pong Game!
+
+Click the badge below to open a full, interactive version of the game in your browser:
+
+[![Play Pong](https://shields.io)](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME)
 
 
 
